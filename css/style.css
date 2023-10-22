@@ -1,0 +1,107 @@
+.style1 {
+    background: #189bf2;
+    background-image: -webkit-linear-gradient(top, #189bf2, #1a9ef0);
+    background-image: -moz-linear-gradient(top, #189bf2, #1a9ef0);
+    background-image: -ms-linear-gradient(top, #189bf2, #1a9ef0);
+    background-image: -o-linear-gradient(top, #189bf2, #1a9ef0);
+    background-image: linear-gradient(to bottom, #189bf2, #1a9ef0);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.style1:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+.style2 {
+    background: #f071df;
+    background-image: -webkit-linear-gradient(top, #f071df, #f26fd1);
+    background-image: -moz-linear-gradient(top, #f071df, #f26fd1);
+    background-image: -ms-linear-gradient(top, #f071df, #f26fd1);
+    background-image: -o-linear-gradient(top, #f071df, #f26fd1);
+    background-image: linear-gradient(to bottom, #f071df, #f26fd1);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.style2:hover {
+    background: #fc3c9c;
+    background-image: -webkit-linear-gradient(top, #fc3c9c, #e84fb0);
+    background-image: -moz-linear-gradient(top, #fc3c9c, #e84fb0);
+    background-image: -ms-linear-gradient(top, #fc3c9c, #e84fb0);
+    background-image: -o-linear-gradient(top, #fc3c9c, #e84fb0);
+    background-image: linear-gradient(to bottom, #fc3c9c, #e84fb0);
+    text-decoration: none;
+  }
+
+.style3 {
+    background: #000000;
+    background-image: -webkit-linear-gradient(top, #000000, #636363);
+    background-image: -moz-linear-gradient(top, #000000, #636363);
+    background-image: -ms-linear-gradient(top, #000000, #636363);
+    background-image: -o-linear-gradient(top, #000000, #636363);
+    background-image: linear-gradient(to bottom, #000000, #636363);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.style3:hover {
+    background: #545253;
+    background-image: -webkit-linear-gradient(top, #545253, #a1a1a1);
+    background-image: -moz-linear-gradient(top, #545253, #a1a1a1);
+    background-image: -ms-linear-gradient(top, #545253, #a1a1a1);
+    background-image: -o-linear-gradient(top, #545253, #a1a1a1);
+    background-image: linear-gradient(to bottom, #545253, #a1a1a1);
+    text-decoration: none;
+  }
+
+  .style4 {
+    background: #000000;
+    background-image: -webkit-linear-gradient(top, #000000, #636363);
+    background-image: -moz-linear-gradient(top, #000000, #636363);
+    background-image: -ms-linear-gradient(top, #000000, #636363);
+    background-image: -o-linear-gradient(top, #000000, #636363);
+    background-image: linear-gradient(to bottom, #000000, #636363);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .style4:hover {
+    background: #545253;
+    background-image: -webkit-linear-gradient(top, #545253, #a1a1a1);
+    background-image: -moz-linear-gradient(top, #545253, #a1a1a1);
+    background-image: -ms-linear-gradient(top, #545253, #a1a1a1);
+    background-image: -o-linear-gradient(top, #545253, #a1a1a1);
+    background-image: linear-gradient(to bottom, #545253, #a1a1a1);
+    text-decoration: none;
+  }
